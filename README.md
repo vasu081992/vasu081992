@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasu081992
-- 🌱 I’m currently learning Java script & React JS library
+- 🌱 I’m currently learning Java script & React JS library & Test automation tools
 - 📫  reach me @ vasudevan29.92@gmail.co
 
 <!---
